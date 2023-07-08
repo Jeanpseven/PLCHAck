@@ -1,0 +1,55 @@
+Siemens,admin,admin
+Siemens,root,123456
+Siemens,engineer,password
+Siemens,service,service
+Siemens,guest,guest
+Schneider Electric,admin,password
+Schneider Electric,root,admin
+Schneider Electric,engineer,1234
+Schneider Electric,service,service
+Schneider Electric,guest,guest
+Rockwell Automation,admin,admin123
+Rockwell Automation,user,user123
+Rockwell Automation,engineer,engineer123
+Rockwell Automation,service,service
+Rockwell Automation,guest,guest
+ABB,admin,admin
+ABB,root,12345
+ABB,operator,operator
+ABB,maintenance,maintenance
+ABB,service,service
+Mitsubishi Electric,admin,password
+Mitsubishi Electric,root,1234
+Mitsubishi Electric,user,user
+Mitsubishi Electric,service,service
+Mitsubishi Electric,guest,guest
+Honeywell,admin,password
+Honeywell,user,user
+Honeywell,engineer,engineer
+Honeywell,service,service
+Honeywell,guest,guest
+Emerson,admin,admin123
+Emerson,user,user123
+Emerson,operator,operator
+Emerson,maintenance,maintenance
+Emerson,service,service
+GE Intelligent Platforms,admin,admin
+GE Intelligent Platforms,root,1234
+GE Intelligent Platforms,user,user
+GE Intelligent Platforms,service,service
+GE Intelligent Platforms,guest,guest
+Schweitzer Engineering Laboratories,admin,password
+Schweitzer Engineering Laboratories,root,12345
+Schweitzer Engineering Laboratories,engineer,engineer
+Schweitzer Engineering Laboratories,service,service
+Schweitzer Engineering Laboratories,guest,guest
+Phoenix Contact,admin,admin
+Phoenix Contact,root,1234
+Phoenix Contact,user,user
+Phoenix Contact,service,service
+Phoenix Contact,guest,guest
+Eaton,admin,admin123
+Eaton,user,user123
+Eaton,engineer,engineer123
+Eaton,service,service
+Eaton,guest,guest
